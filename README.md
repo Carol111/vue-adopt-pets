@@ -1,4 +1,8 @@
-# adopt-pets
+![Vue Adopt Pets app](https://imgur.com/qmao5rM.png)
+
+# Vue Adopt Pets
+
+> Course: [freeCodeCamp.org - Learn Vue.js - Full Course for Beginners - 2019](https://www.youtube.com/watch?v=4deVCNJq3qc)
 
 ## Project setup
 ```
